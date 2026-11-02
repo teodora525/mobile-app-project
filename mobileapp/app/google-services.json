@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "450867483556",
+    "project_id": "receptiapp-9eb2b",
+    "storage_bucket": "receptiapp-9eb2b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450867483556:android:753a5ce9c4498c1aa2a731",
+        "android_client_info": {
+          "package_name": "com.example.mobileapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1RzdCVLATmBLA6MYn1lzgFUZBALhL7yQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
